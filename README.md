@@ -1,3 +1,3 @@
 # Webcinema
-URL: https://vlad-maker.github.io/Webcinema/
-Киносайт написанный с использованием HTML5 и CSS3
+[Webcinema](https://vlad-maker.github.io/Webcinema/)
+Каркас киносайта на HTML5 и CSS3.
